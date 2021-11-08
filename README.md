@@ -1,6 +1,7 @@
 ### Olá! Sou o Micael Ariel 👋
 - Estou a procura de um estágio front-end...
-- 🌱 Cursando - Web Moderno Completo JavaScript 2021
+- 🌱 Cursando - Curso de Python 3 do Básico Ao Avançado (com projetos reais), Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
+- 📚 Cursos finalizados -(Web Moderno Completo JavaScript 2021),...
 - 📫 Contate-me no email ou número de celular : micaelariel.torres@gmail.com, (77) 998246598
 
 <div>
