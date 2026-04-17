@@ -1,8 +1,8 @@
 ### Olá! Sou o Micael Ariel 👋
-- Estou a procura de um estágio front-end...
-- 🌱 Cursando - Curso de Python 3 do Básico Ao Avançado (com projetos reais), Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos, PHP Essencial - Criando sistemas com PHP e MySQL na prática.
-- 📚 Cursos finalizados -(Web Moderno Completo JavaScript 2021),...
-- 📫 Contate-me no email ou número de celular : micaelariel.torres@gmail.com, (77) 998246598
+- Sou um profissional em formação na área de Tecnologia da Informação, com experiência prática em suporte técnico, captação de recursos e relacionamento com parceiros. Minha trajetória combina visão analítica, habilidades de comunicação e capacidade de adaptação, atuando tanto em ambientes corporativos quanto no terceiro setor.
+Tenho conhecimento avançado em Inteligência Artificial (Copilot, ChatGPT, Gemini, Claude, entre outros) e em programação (Python, JavaScript, PHP, SQL), além de sólida base em informática avançada e gestão de dados.
+
+-Busco oportunidades que me permitam aplicar tecnologia para resolver problemas, otimizar processos e gerar impacto positivo, seja em projetos de TI ou em iniciativas sociais.
 
 <div>
   <a href="https://github.com/MicaelAriel">
